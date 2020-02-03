@@ -8,11 +8,13 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "kermis.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:02f0253c-59f7-4e6e-8c4a-74dee776c0cb"
 }
