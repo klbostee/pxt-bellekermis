@@ -1,4 +1,4 @@
-//% weight=100 color=#F3A21B icon="\uF118"
+//% weight=100 color=#F3A21B icon="\uF004"
 namespace kermis {
 
     let notePlayedHandlers: Array<() => void> = [];
